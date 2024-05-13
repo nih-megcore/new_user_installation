@@ -1,5 +1,5 @@
 # new_user_installation
-
+```
 conda
 mamba
 spyder
@@ -14,3 +14,4 @@ sam software all versions
 ctf tools
 
 NoMachine
+```
