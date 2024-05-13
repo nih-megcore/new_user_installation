@@ -10,7 +10,8 @@ Git
 freesurfer
 afni
 
-sam software all versions
+singularity
+sam software
 ctf tools
 
 NoMachine
